@@ -1,0 +1,6 @@
+[submodule "PhoneCommerce"]
+	path = PhoneCommerce
+	url = https://github.com/DomenicoIngrati/PhoneCommerce
+[submodule "BurgerTime"]
+	path = BurgerTime
+	url = https://github.com/DomenicoIngrati/BurgerTime
